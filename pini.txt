@@ -1,0 +1,13 @@
+TX pe Radio - RX pro d8
+Rx pe Radio - Tx pro d7
+PW Radio - D13
+PTT Radio - D12
+HR - D6
+Receptie - A0
+MIC -> Radio D9
+
+
+Tx pe GPS - Rx pro d2
+Rx pe GPS - Tx pro d3
+
+i2c standard 
