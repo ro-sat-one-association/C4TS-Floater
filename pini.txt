@@ -12,4 +12,4 @@ Rx pe GPS - Tx pro d3
 
 i2c standard 
 
-mare modificare pentru exemplu de git foarte smecher amiplk
+A1 monitorizare baterie pe 3.3V

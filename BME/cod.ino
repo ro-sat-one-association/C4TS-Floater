@@ -3,6 +3,7 @@
 
 BlueDot_BME280 bme2; 
 int bme2Detected = 0;   
+
 void setup() {
   Serial.begin(38400);
   Serial.println(F("Basic Weather Station"));
@@ -48,7 +49,7 @@ void setup() {
     while(1);
   }
   Serial.println();
-  Serial.println();
+ 
 
      
 }
