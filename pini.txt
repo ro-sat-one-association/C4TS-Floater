@@ -11,3 +11,5 @@ Tx pe GPS - Rx pro d2
 Rx pe GPS - Tx pro d3
 
 i2c standard 
+
+mare modificare pentru exemplu de git foarte smecher amiplk
