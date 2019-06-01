@@ -2,7 +2,7 @@ TX pe Radio - RX pro d8
 Rx pe Radio - Tx pro d7
 PW Radio - D13
 PTT Radio - D12
-HR - D6
+1/0.5w - D6 (0.5w-low)
 Receptie - A0
 MIC -> Radio D9
 
