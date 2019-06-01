@@ -86,10 +86,10 @@ const char *mystatus = "C4TS Beacon de teste";
 
 const char *lat = "4656.86N"; //4656.86N/02622.05E
 const char *lon = "02622.05E";
-const char sym_ovl = 'H';
-const char sym_tab = 'a';
+const char sym_ovl = 'B';
+const char sym_tab = 'v';
 
-unsigned int tx_delay = 20000;
+unsigned int tx_delay = 60000;
 unsigned int str_len = 400;
 
 char bit_stuff = 0;
@@ -513,7 +513,7 @@ void loop()
   digitalWrite(13, HIGH);
   digitalWrite(6, LOW);
   
-  send_packet(_STATUS);
+  send_packet(_FIXPOS_STATUS);
   
   digitalWrite(12, HIGH);
   

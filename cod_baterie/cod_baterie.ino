@@ -17,7 +17,7 @@ void loop() {
     s/=10000;
 
     aux=s*3.4/1024;
-    Serial.println(aux,"V pin A1");
+    Serial.println(aux);
     s=0;
     nr=0;
   }
